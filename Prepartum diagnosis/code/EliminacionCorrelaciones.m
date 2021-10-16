@@ -1,0 +1,14 @@
+
+
+CORPUS_TRAIN(:,13)=[];
+CORPUS_TRAIN(:,18-1)=[];
+CORPUS_TRAIN(:,19-2)=[];
+CORPUS_TRAIN(:,6)=[];
+CORPUS_TRAIN(:,6)=[];
+
+CORPUS_TEST(:,13)=[];
+CORPUS_TEST(:,18-1)=[];
+CORPUS_TEST(:,19-2)=[];
+CORPUS_TEST(:,6)=[];
+CORPUS_TEST(:,6)=[];
+
