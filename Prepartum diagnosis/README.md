@@ -1,0 +1,1 @@
+This project will attempt to predict the health status of different fetuses prior to delivery using a large set of data extracted from electrocardiograms performed inside the mother's own uterus. In this project we will provide both the database used and the code to launch it, this will be launched from the main called "TrabajoDefinitivo".
